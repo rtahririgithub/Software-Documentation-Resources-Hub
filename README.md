@@ -1,10 +1,7 @@
 # Software Documentation Guide
 
 Great documentation is essential for any software project. It helps teams work together effectively and ensures everyone understands how to use and maintain the code. However, many teams struggle with documentation - it's often outdated, inconsistent, or missing entirely.
-
 This guide provides everything you need to create and maintain excellent documentation:
-
-
 
 - Templates and tools you can start using right away
 - Best practices and standards to keep your docs consistent 
