@@ -1,4 +1,4 @@
-# Enterprise Architecture Documentation Based on TOGAF Framework
+# Extended Warranty System (EWS) Enterprise Architecture Documentation Based on TOGAF Framework
 
 ## 1. Introduction
 
