@@ -292,4 +292,4 @@ Templates and resources:
 Documentation website generators:
 
 - [Docusaurus](https://github.com/facebook/docusaurus)
-- [Docsify](https
+- [Docsify](https://docsify.js.org/#/)
